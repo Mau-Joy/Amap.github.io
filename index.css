@@ -118,7 +118,9 @@ font-family: sans-serif;
 
 
 }
-
+.azul ul li:hover{
+	transform: scale(1.1);
+}
 .btn {
 
   border: 1px solid darkgray;
